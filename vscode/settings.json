@@ -1,0 +1,21 @@
+{
+  "workbench.colorTheme": "Night Owl",
+  "go.autocompleteUnimportedPackages": true,
+  "editor.formatOnSave": true,
+  "go.useLanguageServer": true,
+  "files.autoSave": "onFocusChange",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.associations": {
+    "*.json": "jsonc",
+    "*.md": "mdx"
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.code-search": true
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "aws.profile": "profile:default"
+}
